@@ -1,11 +1,11 @@
-## Web Site URL : https://kids-browser.com
-
 ---
 title: "Kids Browser Documentation"
 description: "User guide and documentation for Kids Browser: safe browsing, parental control, child profiles, and security settings."
 sidebar_label: "Kids Browser"
 slug: "/kids-browser"
 ---
+
+## Web Site URL : https://kids-browser.com
 
 # Kids Browser — User Guide and Documentation
 
