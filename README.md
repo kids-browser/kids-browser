@@ -1,3 +1,5 @@
+## Web Site URL : https://kids-browser.com
+
 ---
 title: "Kids Browser Documentation"
 description: "User guide and documentation for Kids Browser: safe browsing, parental control, child profiles, and security settings."
