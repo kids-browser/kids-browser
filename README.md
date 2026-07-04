@@ -1,558 +1,532 @@
 ---
 title: "Kids Browser Documentation"
-description: "دليل استخدام وشرح متصفح الأطفال: الحماية، التصفح الآمن، لوحة تحكم الوالدين، وإعدادات الاستخدام."
+description: "User guide and documentation for Kids Browser: safe browsing, parental control, child profiles, and security settings."
 sidebar_label: "Kids Browser"
 slug: "/kids-browser"
 ---
 
-# Kids Browser — دليل الاستخدام والشرح
+# Kids Browser — User Guide and Documentation
 
-**Kids Browser** هو متصفح مصمم خصيصًا لمساعدة الأطفال على تصفح الإنترنت بطريقة أكثر أمانًا وتنظيمًا، مع توفير أدوات واضحة للوالدين للتحكم في تجربة التصفح وتقليل ظهور المحتوى غير المناسب.
+**Kids Browser** is a child-friendly browser designed to help children browse the internet in a safer, simpler, and more organized way. It gives parents clear tools to control the browsing experience and reduce exposure to inappropriate content.
 
-> الهدف الأساسي من المتصفح هو جعل تجربة الإنترنت للطفل أبسط، أكثر أمانًا، وأسهل في المتابعة من جانب الوالدين.
-
----
-
-## 1. ما هو Kids Browser؟
-
-Kids Browser هو متصفح للأطفال يعتمد على واجهة بسيطة ومريحة بصريًا، مع أدوات حماية تساعد على:
-
-- تقليل الوصول إلى المواقع غير المناسبة.
-- تفعيل التصفح الآمن.
-- التحكم في الصور والفيديوهات.
-- عرض المواقع المفضلة أو المسموح بها للطفل.
-- توفير لوحة تحكم للوالدين.
-- متابعة وقت الاستخدام.
-- جعل تجربة التصفح مناسبة لعمر الطفل.
+> The main goal of Kids Browser is to make the internet safer, easier, and more suitable for children, while giving parents practical control over browsing behavior.
 
 ---
 
-## 2. أهم المميزات
+## 1. What Is Kids Browser?
 
-### 2.1 التصفح الآمن
+Kids Browser is a browser designed specifically for children. It provides a clean visual interface and safety tools that help with:
 
-ميزة **Safe Browsing** تساعد على حماية الطفل من المواقع غير المرغوب بها أو غير المناسبة، من خلال نظام فلترة وحظر للمحتوى الضار.
-
-يمكن استخدام هذه الميزة مع:
-
-- المواقع الإباحية.
-- مواقع العنف أو المحتوى الصادم.
-- مواقع الاحتيال.
-- المواقع غير المناسبة لعمر الطفل.
-- أي دومينات يضيفها الوالدان يدويًا إلى قائمة الحظر.
+- Reducing access to inappropriate websites.
+- Enabling safe browsing.
+- Controlling images and videos.
+- Displaying trusted or allowed websites.
+- Providing parental control tools.
+- Tracking usage time.
+- Creating a browsing experience suitable for the child’s age.
 
 ---
 
-### 2.2 حظر المواقع غير المناسبة
+## 2. Key Features
 
-يمكن للوالدين إضافة مواقع إلى قائمة الحظر، بحيث لا يستطيع الطفل فتحها داخل المتصفح.
+### 2.1 Safe Browsing
 
-أمثلة على الاستخدام:
+The **Safe Browsing** feature helps protect children from unwanted or inappropriate websites through filtering and blocking controls.
 
-- حظر موقع معين بالكامل.
-- حظر دومين رئيسي وكل الصفحات التابعة له.
-- حظر كلمات أو روابط تحتوي على أنماط معينة.
-- منع الوصول إلى مواقع غير مرغوب بها أثناء الدراسة.
+This feature can be used to help block:
 
----
-
-### 2.3 قائمة المواقع المسموح بها
-
-يمكن عرض مجموعة من المواقع الآمنة أو التعليمية داخل الشريط الجانبي، ليسهل على الطفل الوصول إليها دون كتابة روابط.
-
-أمثلة للمواقع التي يمكن إضافتها:
-
-- مواقع تعليمية.
-- منصات فيديو مخصصة للأطفال.
-- مواقع ألعاب تعليمية.
-- مواقع قراءة وقصص.
-- مواقع المدرسة أو المنصة التعليمية.
+- Adult websites.
+- Violent or shocking content.
+- Scam or phishing websites.
+- Websites unsuitable for children.
+- Any domains manually added by parents to the block list.
 
 ---
 
-### 2.4 إخفاء الصور
+### 2.2 Block Inappropriate Websites
 
-يوفر المتصفح زرًا لإخفاء الصور داخل صفحات الويب، وهذا مفيد في الحالات التالية:
+Parents can add websites to a block list so children cannot access them inside the browser.
 
-- تقليل التشتيت.
-- منع ظهور صور غير مناسبة.
-- تحسين تركيز الطفل أثناء القراءة أو الدراسة.
-- تقليل استهلاك الإنترنت.
+Examples of use:
 
----
-
-### 2.5 إخفاء الفيديوهات
-
-يمكن للوالدين أو الطفل إخفاء الفيديوهات من الصفحات عند الحاجة.
-
-هذه الميزة مفيدة عند:
-
-- استخدام المتصفح للدراسة فقط.
-- منع مشاهدة الفيديوهات غير المناسبة.
-- تقليل الوقت الضائع.
-- جعل الصفحة أبسط وأسهل للقراءة.
+- Block a specific website.
+- Block a main domain and all related pages.
+- Block URLs that match certain patterns.
+- Prevent access to distracting websites during study time.
 
 ---
 
-### 2.6 تخطي الفيديو
+### 2.3 Allowed Websites List
 
-ميزة تخطي الفيديو تساعد على التحكم في تشغيل الفيديوهات داخل بعض الصفحات، خصوصًا عندما يكون الهدف هو تقليل التشتيت أو تجاوز محتوى غير مرغوب.
+Parents can display safe or educational websites inside the sidebar so children can access them easily without typing URLs.
 
-> يجب استخدام هذه الميزة بشكل مسؤول، ويفضل أن تكون ضمن إعدادات واضحة من لوحة تحكم الوالدين.
+Examples of websites that can be added:
 
----
-
-### 2.7 الشريط الجانبي
-
-الشريط الجانبي يوفر وصولًا سريعًا إلى الأدوات المهمة، مثل:
-
-- اختصارات المواقع.
-- أدوات التحكم في الصفحة.
-- زر إخفاء الصور.
-- زر إخفاء الفيديوهات.
-- زر لوحة تحكم الوالدين.
-- زر تغيير وضع الشريط الجانبي.
-
-يمكن تغيير محتوى الشريط الجانبي من خلال زر واحد في الأعلى، بحيث ينتقل بين أكثر من وضع مثل:
-
-1. وضع المواقع المفضلة.
-2. وضع أدوات التحكم.
-3. وضع الحماية.
-4. وضع إعدادات الطفل.
+- Educational websites.
+- Child-friendly video platforms.
+- Educational games.
+- Reading and storytelling websites.
+- School or learning platforms.
 
 ---
 
-### 2.8 الشريط السفلي
+### 2.4 Hide Images
 
-الشريط السفلي يعرض معلومات مهمة عن الطفل وجلسة الاستخدام، مثل:
+Kids Browser can include a button to hide images inside web pages.
 
-- اسم الطفل الحالي.
-- صورة أو أيقونة الطفل.
-- وقت التشغيل.
-- زر تغيير الطفل.
-- زر لوحة تحكم الوالدين.
-- حالة الحماية.
+This is useful for:
+
+- Reducing distraction.
+- Preventing inappropriate images from appearing.
+- Helping children focus while reading or studying.
+- Reducing internet usage.
 
 ---
 
-### 2.9 إدارة أكثر من طفل
+### 2.5 Hide Videos
 
-يدعم المتصفح فكرة وجود أكثر من طفل داخل نفس النظام، بحيث يمكن تخصيص إعدادات مختلفة لكل طفل.
+Parents or children can hide videos from web pages when needed.
 
-مثال:
+This feature is useful when:
 
-| الطفل | العمر | نوع التصفح | وقت الاستخدام |
+- The browser is used for studying only.
+- Parents want to reduce exposure to unsuitable videos.
+- The child needs a more focused browsing experience.
+- The page should be simpler and easier to read.
+
+---
+
+### 2.6 Skip Video
+
+The **Skip Video** feature helps control video playback on some pages, especially when the goal is to reduce distraction or skip unwanted content.
+
+> This feature should be used responsibly and preferably controlled from the parental settings area.
+
+---
+
+### 2.7 Sidebar
+
+The sidebar provides quick access to important tools, such as:
+
+- Website shortcuts.
+- Page control tools.
+- Hide images button.
+- Hide videos button.
+- Parental control button.
+- Sidebar mode switch button.
+
+The sidebar content can be changed using a single button at the top, allowing it to switch between multiple modes such as:
+
+1. Favorite websites mode.
+2. Control tools mode.
+3. Protection tools mode.
+4. Child settings mode.
+
+---
+
+### 2.8 Bottom Bar
+
+The bottom bar displays important information about the child and the current browsing session, such as:
+
+- Current child name.
+- Child avatar or icon.
+- Usage time.
+- Switch child button.
+- Parental control button.
+- Protection status.
+
+---
+
+### 2.9 Multiple Child Profiles
+
+Kids Browser can support multiple child profiles, allowing different settings for each child.
+
+Example:
+
+| Child | Age | Browsing Mode | Daily Usage Time |
 |---|---:|---|---:|
-| أحمد | 7 سنوات | تعليمي فقط | 60 دقيقة |
-| ليلى | 10 سنوات | تعليمي وترفيهي محدود | 90 دقيقة |
-| يوسف | 13 سنة | تصفح آمن مع رقابة أقل | 120 دقيقة |
+| Adam | 7 | Educational only | 60 minutes |
+| Lily | 10 | Educational and limited entertainment | 90 minutes |
+| Joseph | 13 | Safe browsing with lighter supervision | 120 minutes |
 
 ---
 
-## 3. واجهة المتصفح
+## 3. Browser Interface
 
-### 3.1 الشريط العلوي
+### 3.1 Top Bar
 
-الشريط العلوي يحتوي عادة على:
+The top bar usually contains:
 
-- أزرار التحكم في النافذة.
-- التابات المفتوحة.
-- زر إضافة تاب جديد.
-- شريط العنوان.
-- زر الرجوع.
-- زر التقدم.
-- زر إعادة التحميل.
-- زر الصفحة الرئيسية.
+- Window control buttons.
+- Open tabs.
+- New tab button.
+- Address bar.
+- Back button.
+- Forward button.
+- Reload button.
+- Home button.
 
-ينصح أن تكون ألوان الشريط العلوي هادئة وواضحة، وتدل على الأمان والثقة.
-
----
-
-### 3.2 التابات
-
-التابات في Kids Browser يجب أن تكون مناسبة للأطفال، لذلك يفضل أن تكون:
-
-- كبيرة وواضحة.
-- ذات حواف ناعمة.
-- بألوان مريحة.
-- سهلة الإغلاق.
-- غير مزدحمة.
-- مختلفة عن شكل المتصفحات التقليدية قدر الإمكان.
+The top bar should use calm and clear colors that communicate safety, trust, and protection.
 
 ---
 
-### 3.3 شريط العنوان
+### 3.2 Tabs
 
-شريط العنوان هو المكان الذي يكتب فيه المستخدم الرابط أو كلمة البحث.
+Tabs in Kids Browser should be child-friendly. They should be:
 
-يفضل أن يحتوي على:
-
-- أيقونة أمان.
-- عداد بسيط لعدد الروابط أو معلومات الصفحة عند الحاجة.
-- تنبيه واضح عند فتح موقع غير آمن.
-- تصميم واضح ومناسب للأطفال.
-
----
-
-### 3.4 منطقة عرض الموقع
-
-هذه هي المساحة التي يظهر فيها محتوى الموقع.
-
-ينصح أن تكون:
-
-- خالية من العناصر المشتتة.
-- متوافقة مع أدوات الحماية.
-- قادرة على إخفاء الصور والفيديوهات.
-- مرتبطة بنظام الحظر والفلترة.
+- Large and clear.
+- Rounded.
+- Visually comfortable.
+- Easy to close.
+- Not crowded.
+- Different from traditional browser tabs when possible.
 
 ---
 
-## 4. لوحة تحكم الوالدين
+### 3.3 Address Bar
 
-لوحة تحكم الوالدين هي المكان الذي يتم من خلاله إدارة إعدادات الحماية والطفل.
+The address bar is where the child enters a URL or search term.
 
-### 4.1 أهم أقسام لوحة التحكم
+It is recommended to include:
 
-- إعدادات الطفل.
-- المواقع المسموح بها.
-- المواقع المحظورة.
-- مدة الاستخدام.
-- سجل التصفح.
-- إعدادات الصور والفيديو.
-- إعدادات البحث الآمن.
-- كلمة مرور الوالدين.
-- إعدادات اللغة.
-- إعدادات الإشعارات.
+- Security icon.
+- Simple page or URL information when needed.
+- Clear warning when opening an unsafe website.
+- Clean design suitable for children.
 
 ---
 
-### 4.2 كلمة مرور الوالدين
+### 3.4 Website View Area
 
-ينصح بإضافة كلمة مرور خاصة بلوحة تحكم الوالدين حتى لا يستطيع الطفل تغيير إعدادات الحماية.
+This is the main area where website content appears.
 
-قواعد مقترحة:
+It should be:
 
-- لا تقل عن 6 أرقام أو حروف.
-- لا تكون سهلة التخمين.
-- يمكن تغييرها من لوحة التحكم.
-- يتم طلبها عند محاولة فتح الإعدادات الحساسة.
-
----
-
-### 4.3 إعدادات الوقت
-
-يمكن للوالدين تحديد وقت استخدام يومي لكل طفل.
-
-أمثلة:
-
-- 30 دقيقة يوميًا.
-- ساعة واحدة يوميًا.
-- ساعتان في عطلة نهاية الأسبوع.
-- منع الاستخدام بعد وقت معين.
+- Free from unnecessary distractions.
+- Compatible with protection tools.
+- Able to hide images and videos.
+- Connected to blocking and filtering systems.
 
 ---
 
-### 4.4 سجل التصفح
+## 4. Parental Control Panel
 
-سجل التصفح يساعد الوالدين على معرفة المواقع التي تم فتحها.
+The parental control panel is where parents manage child profiles, protection settings, browsing rules, and usage controls.
 
-يفضل أن يعرض:
+### 4.1 Main Parental Control Sections
 
-- اسم الموقع.
-- الرابط.
-- وقت الزيارة.
-- مدة البقاء.
-- هل تم حظر الموقع أم لا.
-- سبب الحظر إن وجد.
+Recommended sections include:
+
+- Child settings.
+- Allowed websites.
+- Blocked websites.
+- Usage time.
+- Browsing history.
+- Image and video settings.
+- Safe search settings.
+- Parental password.
+- Language settings.
+- Notifications.
 
 ---
 
-## 5. إعدادات الحماية
+### 4.2 Parental Password
+
+A parental password should be added to prevent children from changing sensitive settings.
+
+Recommended rules:
+
+- At least 6 characters or digits.
+- Not easy to guess.
+- Can be changed from the parental control panel.
+- Required when opening sensitive settings.
+
+---
+
+### 4.3 Usage Time Settings
+
+Parents can define daily usage time for each child.
+
+Examples:
+
+- 30 minutes per day.
+- 1 hour per day.
+- 2 hours on weekends.
+- Block browsing after a specific time.
+
+---
+
+### 4.4 Browsing History
+
+Browsing history helps parents understand which websites were opened.
+
+It should display:
+
+- Website name.
+- URL.
+- Visit time.
+- Time spent.
+- Whether the website was blocked.
+- Blocking reason, if available.
+
+---
+
+## 5. Protection Settings
 
 ### 5.1 Safe Browsing
 
-عنوان مناسب داخل الواجهة:
+Recommended interface title:
 
-**Safe Browsing**
+```text
+Safe Browsing
+```
 
-أو بالعربية:
+Short description:
 
-**التصفح الآمن**
-
-وصف مختصر:
-
-> تفعيل نظام الحماية من المواقع غير المرغوب بها والمحتوى غير المناسب للأطفال.
+```text
+Enable protection against unwanted websites and content that may be unsuitable for children.
+```
 
 ---
 
 ### 5.2 Blocked Websites
 
-عنوان مناسب:
+Recommended interface title:
 
-**Blocked Websites**
+```text
+Blocked Websites
+```
 
-أو بالعربية:
+Short description:
 
-**المواقع المحظورة**
-
-وصف مختصر:
-
-> أضف المواقع التي لا تريد لطفلك الوصول إليها أثناء استخدام المتصفح.
+```text
+Add websites that your child should not be able to access while using the browser.
+```
 
 ---
 
 ### 5.3 Allowed Websites
 
-عنوان مناسب:
+Recommended interface title:
 
-**Allowed Websites**
+```text
+Allowed Websites
+```
 
-أو بالعربية:
+Short description:
 
-**المواقع المسموح بها**
-
-وصف مختصر:
-
-> أضف المواقع الآمنة التي يمكن لطفلك فتحها بسهولة من داخل المتصفح.
+```text
+Add trusted websites your child can open easily from inside the browser.
+```
 
 ---
 
 ### 5.4 Hide Images
 
-عنوان مناسب:
+Recommended interface title:
 
-**Hide Images**
+```text
+Hide Images
+```
 
-أو بالعربية:
+Short description:
 
-**إخفاء الصور**
-
-وصف مختصر:
-
-> إخفاء الصور من صفحات الويب لتقليل التشتيت ومنع ظهور الصور غير المناسبة.
+```text
+Hide images from web pages to reduce distractions and prevent unsuitable images from appearing.
+```
 
 ---
 
 ### 5.5 Hide Videos
 
-عنوان مناسب:
+Recommended interface title:
 
-**Hide Videos**
+```text
+Hide Videos
+```
 
-أو بالعربية:
+Short description:
 
-**إخفاء الفيديوهات**
-
-وصف مختصر:
-
-> إخفاء الفيديوهات من الصفحات لجعل التصفح أكثر هدوءًا وتركيزًا.
+```text
+Hide videos from pages to create a calmer and more focused browsing experience.
+```
 
 ---
 
-## 6. صفحات الموقع المقترحة
+## 6. Recommended Website Pages
 
-ينصح أن يحتوي موقع Kids Browser على الصفحات التالية:
+The Kids Browser website should include the following pages:
 
-| الصفحة | الهدف |
+| Page | Purpose |
 |---|---|
-| Home | عرض المنتج والمميزات الأساسية |
-| About Us | تعريف الشركة والهدف من المشروع |
-| Contact Us | طرق التواصل |
-| Support | الدعم الفني والمساعدة |
-| Privacy Policy | سياسة الخصوصية |
-| Terms of Service | شروط الاستخدام |
-| Cookie Policy | سياسة ملفات تعريف الارتباط |
-| Refund Policy | سياسة الاسترداد |
-| Security | شرح الحماية والأمان |
-| Child Safety | شرح التزام المنتج بسلامة الأطفال |
+| Home | Present the product and main features |
+| About Us | Explain the company and product mission |
+| Contact Us | Provide communication methods |
+| Support | Help users get assistance |
+| Privacy Policy | Explain data privacy practices |
+| Terms of Service | Define usage rules |
+| Cookie Policy | Explain cookie usage |
+| Refund Policy | Explain refund rules |
+| Security | Explain protection and security practices |
+| Child Safety | Explain the product’s commitment to child safety |
 
 ---
 
-## 7. نصوص قصيرة للواجهة
+## 7. Short Interface Texts
 
-### 7.1 زر التفعيل
+### 7.1 Enable Button
 
 ```text
 Enable Safe Browsing
 ```
 
-بالعربية:
-
-```text
-تفعيل التصفح الآمن
-```
-
 ---
 
-### 7.2 رسالة عند حظر موقع
+### 7.2 Blocked Website Message
 
 ```text
 This website is blocked for your safety.
 ```
 
-بالعربية:
-
-```text
-تم حظر هذا الموقع حفاظًا على سلامتك.
-```
-
 ---
 
-### 7.3 رسالة للوالدين
+### 7.3 Parental Settings Message
 
 ```text
 Parental password is required to change this setting.
 ```
 
-بالعربية:
-
-```text
-يجب إدخال كلمة مرور الوالدين لتغيير هذا الإعداد.
-```
-
 ---
 
-### 7.4 رسالة عند انتهاء وقت الاستخدام
+### 7.4 Usage Time Ended Message
 
 ```text
 Browsing time is over for today.
 ```
 
-بالعربية:
+---
 
-```text
-انتهى وقت التصفح المحدد لهذا اليوم.
-```
+## 8. Child Experience Recommendations
+
+To make the browser suitable for children, it is recommended to:
+
+- Use calm and friendly colors.
+- Avoid harsh or alarming colors.
+- Make buttons large and clear.
+- Use simple and recognizable icons.
+- Reduce long text inside the interface.
+- Make warning messages friendly, not scary.
+- Use a clear and professional font.
+- Avoid showing complex technical settings to children.
+- Separate the child interface from the parental control panel.
 
 ---
 
-## 8. اقتراحات لتجربة الطفل
+## 9. Parent Experience Recommendations
 
-لجعل المتصفح مناسبًا للأطفال، يفضل الالتزام بالنقاط التالية:
+To make the browser useful for parents, it should provide:
 
-- استخدام ألوان هادئة ومبهجة.
-- عدم استخدام ألوان حادة أو مخيفة.
-- جعل الأزرار كبيرة وواضحة.
-- استخدام أيقونات مفهومة.
-- تقليل النصوص الطويلة داخل الواجهة.
-- جعل الرسائل ودودة وغير مخيفة.
-- استخدام خط عربي واضح واحترافي.
-- عدم إظهار إعدادات تقنية معقدة للطفل.
-- فصل واجهة الطفل عن لوحة تحكم الوالدين.
-
----
-
-## 9. اقتراحات لتجربة الوالدين
-
-لجعل المتصفح مفيدًا للوالدين، يفضل توفير:
-
-- لوحة تحكم واضحة.
-- تقارير استخدام مختصرة.
-- تحكم في وقت الاستخدام.
-- قوائم حظر وسماح سهلة.
-- كلمة مرور للإعدادات الحساسة.
-- تنبيهات عند محاولة فتح موقع محظور.
-- إعدادات مختلفة لكل طفل.
-- إمكانية تصدير أو حفظ الإعدادات.
+- A clear control panel.
+- Short usage reports.
+- Daily usage time control.
+- Easy allowed and blocked website lists.
+- Password protection for sensitive settings.
+- Alerts when a blocked website is attempted.
+- Different settings for each child.
+- Ability to export or save settings.
 
 ---
 
-## 10. الأسئلة الشائعة
+## 10. Frequently Asked Questions
 
-### هل Kids Browser يمنع كل المواقع الضارة بنسبة 100%؟
+### Does Kids Browser block all harmful websites 100%?
 
-لا يوجد نظام حماية يستطيع ضمان منع كل المواقع الضارة بنسبة 100%، لكن Kids Browser يساعد على تقليل المخاطر من خلال أدوات الحظر، التصفح الآمن، وإعدادات الرقابة.
-
----
-
-### هل يمكن استخدام المتصفح للدراسة فقط؟
-
-نعم، يمكن ضبط المتصفح ليعرض المواقع التعليمية فقط من خلال قائمة المواقع المسموح بها.
+No protection system can guarantee blocking every harmful website with 100% accuracy. However, Kids Browser helps reduce risk through blocking tools, safe browsing, and parental controls.
 
 ---
 
-### هل يمكن منع الفيديوهات؟
+### Can the browser be used for studying only?
 
-نعم، يمكن استخدام ميزة إخفاء الفيديوهات لتقليل التشتيت أو منع مشاهدة الفيديوهات داخل الصفحات.
-
----
-
-### هل يمكن منع الصور؟
-
-نعم، يمكن تفعيل ميزة إخفاء الصور من داخل أدوات التحكم.
+Yes. Parents can configure the browser to allow educational websites only through the allowed websites list.
 
 ---
 
-### هل يمكن إنشاء إعدادات مختلفة لكل طفل؟
+### Can videos be blocked or hidden?
 
-نعم، من الأفضل دعم أكثر من ملف طفل، بحيث يكون لكل طفل إعدادات خاصة حسب عمره واحتياجاته.
-
----
-
-### هل يحتاج المتصفح إلى لوحة تحكم للوالدين؟
-
-نعم، لوحة تحكم الوالدين ضرورية لإدارة الحماية، الوقت، المواقع، والإعدادات الحساسة.
+Yes. The **Hide Videos** feature can be used to reduce distractions or hide videos from pages.
 
 ---
 
-## 11. توصيات مهمة للتطوير
+### Can images be blocked or hidden?
 
-### 11.1 فصل إعدادات الطفل عن إعدادات الوالدين
-
-يجب أن تكون واجهة الطفل بسيطة، بينما تكون الإعدادات المتقدمة داخل لوحة تحكم الوالدين فقط.
+Yes. The **Hide Images** feature can hide images from web pages.
 
 ---
 
-### 11.2 عدم الاعتماد على الحظر فقط
+### Can each child have different settings?
 
-الحظر مهم، لكنه ليس كافيًا. الأفضل الجمع بين:
-
-- قائمة حظر.
-- قائمة سماح.
-- بحث آمن.
-- إخفاء الصور والفيديوهات.
-- سجل استخدام.
-- وقت استخدام محدد.
+Yes. It is recommended to support multiple child profiles so each child has settings based on age and needs.
 
 ---
 
-### 11.3 الاهتمام بالثقة
+### Does the browser need a parental control panel?
 
-المنتج موجه للأطفال، لذلك يجب أن تكون رسائل الموقع واضحة وشفافة، خصوصًا في:
-
-- الخصوصية.
-- جمع البيانات.
-- حماية الأطفال.
-- صلاحيات التطبيق.
-- دور الوالدين.
+Yes. A parental control panel is essential for managing protection, time limits, websites, and sensitive settings.
 
 ---
 
-### 11.4 استخدام لغة بسيطة
+## 11. Development Recommendations
 
-يجب ألا تكون الرسائل التقنية معقدة. بدلًا من:
+### 11.1 Separate Child Settings From Parent Settings
+
+The child interface should stay simple, while advanced settings should be available only inside the parental control panel.
+
+---
+
+### 11.2 Do Not Rely on Blocking Only
+
+Blocking is important, but it should not be the only protection layer. A stronger approach combines:
+
+- Block list.
+- Allow list.
+- Safe search.
+- Hide images and videos.
+- Browsing history.
+- Usage time limits.
+
+---
+
+### 11.3 Build Trust
+
+Since the product is designed for children, the website and product messages must be clear and transparent, especially around:
+
+- Privacy.
+- Data collection.
+- Child safety.
+- App permissions.
+- Parent responsibilities.
+
+---
+
+### 11.4 Use Simple Language
+
+Avoid complex technical messages. Instead of:
 
 ```text
 Content filtering rule matched this domain.
 ```
 
-استخدم:
+Use:
 
 ```text
 This website is not allowed.
 ```
 
-أو بالعربية:
-
-```text
-هذا الموقع غير مسموح به.
-```
-
 ---
 
-## 12. هيكل مقترح للتوثيق
+## 12. Suggested Documentation Structure
 
-يمكن تقسيم التوثيق إلى الملفات التالية:
+The documentation can be split into the following files:
 
 ```text
 docs/
@@ -573,21 +547,22 @@ docs/
 
 ---
 
-## 13. ملخص سريع
+## 13. Quick Summary
 
-Kids Browser ليس مجرد متصفح عادي للأطفال، بل تجربة تصفح موجهة وآمنة تعتمد على:
+Kids Browser is not just a regular browser for children. It is a safer and more controlled browsing experience built around:
 
-- حماية الطفل من المحتوى غير المناسب.
-- إعطاء الوالدين أدوات تحكم واضحة.
-- توفير واجهة بسيطة ومريحة.
-- دعم المواقع التعليمية والمفيدة.
-- تقليل التشتيت أثناء التصفح.
-- بناء ثقة حقيقية حول الخصوصية وسلامة الأطفال.
+- Protecting children from unsuitable content.
+- Giving parents clear control tools.
+- Providing a simple and friendly interface.
+- Supporting educational and trusted websites.
+- Reducing distraction while browsing.
+- Building real trust around privacy and child safety.
 
 ---
 
-## 14. خاتمة
+## 14. Conclusion
 
-الإنترنت أصبح جزءًا من حياة الأطفال اليومية، لكن تجربة التصفح تحتاج إلى حماية وتنظيم ووعي.  
-Kids Browser يهدف إلى تقديم تجربة أكثر أمانًا وهدوءًا، تساعد الطفل على الاستفادة من الإنترنت، وتساعد الوالدين على المتابعة والتحكم دون تعقيد.
+The internet is now part of children’s daily lives, but browsing needs protection, structure, and awareness.
+
+Kids Browser aims to provide a safer, calmer, and more focused browsing experience that helps children benefit from the internet while giving parents practical control without unnecessary complexity.
 
